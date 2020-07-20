@@ -1,11 +1,6 @@
 ## Managed Prefix List
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+The CloudFormation Resource Provider Package For Managed Prefix List.
 
 ## License
 
