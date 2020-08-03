@@ -1,0 +1,15 @@
+{
+    "typeName": "AWS::EC2::PrefixList",
+    "language": "java",
+    "runtime": "java8",
+    "entrypoint": "software.amazon.ec2.prefixlist.HandlerWrapper::handleRequest",
+    "testEntrypoint": "software.amazon.ec2.prefixlist.HandlerWrapper::testEntrypoint",
+    "settings": {
+        "namespace": [
+            "software",
+            "amazon",
+            "ec2",
+            "prefixlist"
+        ]
+    }
+}
